@@ -1,0 +1,6 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+indopoint:250,250,55::
+palang:51,221,255::
+road:102,255,102::
+trotoar:255,0,204::

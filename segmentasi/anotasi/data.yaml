@@ -1,0 +1,7 @@
+names:
+  0: road
+  1: trotoar
+  2: indopoint
+  3: palang
+path: .
+train: train.txt
